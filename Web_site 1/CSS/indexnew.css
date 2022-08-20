@@ -1,0 +1,41 @@
+/* .cource-short-discreption{
+    margin-left: 90px;
+    text-align: left;
+} */
+.web-development-discreption{
+    margin-right: 90px;
+}
+.main-aboutus{
+    text-decoration: underline;
+    
+}
+.about-us-text-main{
+    text-align: left;
+    /* font-family: about-us-main; */
+}
+.nav-menu-heading{
+    text-decoration: none;
+    background-color: beige;
+    border-radius: 50%;
+    
+}
+.app-dev-content{
+    padding: 200px;
+}
+
+.app-content{
+    margin-left: 100px;
+    margin-right: 40px;
+}
+.app{
+    text-decoration: none;
+}
+.sub-menu-1{
+    display: none;
+}
+.logo{
+    background-color: chocolate;
+}
+.profile_image{
+    border: 2px;
+}
